@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.sourcelink.json
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\bin\Debug\net10.0\POO.Backend.deps.json
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\bin\Debug\net10.0\POO.Backend.dll
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\bin\Debug\net10.0\POO.Backend.pdb
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.dll
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\refint\POO.Backend.dll
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\POO.Backend.pdb
+C:\Users\ASUS\source\repos\exercise01P00\POO.Backend\obj\Debug\net10.0\ref\POO.Backend.dll
